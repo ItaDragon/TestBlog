@@ -26,8 +26,4 @@
     display: inline-block;
     box-sizing: border-box;
     text-align: center;
-    height: 200px;
-    content: "";
-    height: 100%;
-    vertical-align: middle;
 }
