@@ -1,0 +1,33 @@
+#zad {
+    background: url(../public/images/stextom.jpg) no-repeat center;
+    background-color: white;
+    background-size: cover;
+    height: 800px;
+    display: block;
+    margin: auto;
+}
+
+.menu {
+    font-family: "Canter Light";
+    font-size: 300%;
+    margin: auto;
+    color: #9D5C5C;
+    
+}
+
+.buttons span {
+    cursor: pointer;
+    /* padding-right: 100px;
+    padding-left: 100px; */
+    margin: auto;
+    width: 19%;
+    background-color: rgba(50%, 50%, 50%, 0);
+    transition: background-color 0.6s ease;
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: center;
+    height: 200px;
+    content: "";
+    height: 100%;
+    vertical-align: middle;
+}
