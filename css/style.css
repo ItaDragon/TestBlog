@@ -18,10 +18,18 @@
 .buttons span {
     cursor: pointer;
     margin: auto;
-    width: 19%;
+    width: 19.52%;
     background-color: rgba(50%, 50%, 50%, 0);
     transition: background-color 0.6s ease;
     display: inline-block;
     box-sizing: border-box;
     text-align: center;
+    height: 1.2em;
+}
+
+hr {
+     height: 0.05em;
+     background-color: #B45F5F;
+     margin-top: 0px;
+     border: none
 }
